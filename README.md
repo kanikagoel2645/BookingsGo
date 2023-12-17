@@ -3,7 +3,7 @@
 Welcome to the repository for the Bookings and Reservations application, a robust and efficient hotel room booking app built using the Go programming language. This application is designed to cater to a variety of hotel businesses, from small bed and breakfasts to large hotel chains.
 <img width="1044" alt="Screenshot 2023-12-17 at 8 00 07 PM" src="https://github.com/kanikagoel2645/BookingsGo/assets/111144171/7e9b9452-33ad-43e3-adfa-5389e73942b1">
 
-![io2egyat1](https://github.com/kanikagoel2645/BookingsGo/assets/111144171/560d2755-4443-49ef-9995-42d8ae459adf)<svg xmlns="http://www.w3.org/2000/svg"
+![io2egyat1](https://github.com/kanikagoel2645/BookingsGo/assets/111144171/560d2755-4443-49ef-9995-42d8ae459adf)
 
 # HomePage for our Golang webapp
 
